@@ -1,0 +1,15 @@
+.one{
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.5em;
+    letter-spacing: 15px;
+    word-spacing: 10px;
+    text-decoration: underline;
+}
+h2{
+    background-image: url(./window.jpg);
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+}
